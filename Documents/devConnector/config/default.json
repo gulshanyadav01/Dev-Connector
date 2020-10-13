@@ -1,3 +1,4 @@
 {
-    "MONGODB" : "mongodb+srv://gulshan:Tzd8Rx20iYBRgyFG@cluster0.pzhj1.mongodb.net/devConnector?retryWrites=true&w=majority"
+    "MONGODB" : "mongodb+srv://gulshan:Tzd8Rx20iYBRgyFG@cluster0.pzhj1.mongodb.net/devConnector?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
